@@ -24,8 +24,8 @@ function getJson() {
         if(forceUp){
             forceUp = false;
             alert("Dados locais atualizados com sucesso!")
-            document.location.reload()
         }
+        document.location.reload()
     }else{
         dados = decrypt(localStorage.getItem("lastUp"))
         dados = dados.replace('°', "")
