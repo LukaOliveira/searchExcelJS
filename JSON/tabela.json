@@ -1,0 +1,107 @@
+[
+   {
+      "Modalidade":"Debito Na Hora",
+      "MercadoPago":"1.99%",
+      "SuperGetD2":"N/A",
+      "SuperGetConformeVendas":"N/A",
+      "PagSeguro":"1.99% por um ano, após 2.39%",
+      "Stelo":"N/A",
+      "TonBronze":"N/A"
+   },
+   {
+      "Modalidade":"Debito 1 Dia",
+      "MercadoPago":"N/A",
+      "SuperGetD2":"2.00%",
+      "SuperGetConformeVendas":"1.95%",
+      "PagSeguro":"N/A",
+      "Stelo":"1.99% por um ano, após 2.39%",
+      "TonBronze":"1.99%"
+   },
+   {
+      "Modalidade":"Crédito a vista na hora",
+      "MercadoPago":"4.74%",
+      "SuperGetD2":"N/A",
+      "SuperGetConformeVendas":"N/A",
+      "PagSeguro":"4.99%",
+      "Stelo":"N/A"
+   },
+   {
+      "Modalidade":"Crédito 2  dias",
+      "MercadoPago":"N/A",
+      "SuperGetD2":"2.00%",
+      "SuperGetConformeVendas":"N/A",
+      "PagSeguro":"N/A",
+      "Stelo":"4.99%"
+   },
+   {
+      "Modalidade":"Crédito 14  dias",
+      "MercadoPago":"3.79%",
+      "SuperGetD2":"N/A",
+      "SuperGetConformeVendas":"N/A",
+      "PagSeguro":"3.99%",
+      "Stelo":"N/A"
+   },
+   {
+      "Modalidade":"Crédito 30  dias",
+      "MercadoPago":"3.03%",
+      "SuperGetD2":"N/A",
+      "SuperGetConformeVendas":"N/A",
+      "PagSeguro":"3.19%",
+      "Stelo":"3.19%"
+   },
+   {
+      "Modalidade":"Crédito 31  dias",
+      "MercadoPago":"N/A",
+      "SuperGetD2":"2.00%",
+      "SuperGetConformeVendas":"3.09%",
+      "PagSeguro":"N/A",
+      "Stelo":"N/A"
+   },
+   {
+      "Modalidade":"Credito Parcelado na hora",
+      "MercadoPago":"5.31%",
+      "SuperGetD2":"N/A",
+      "SuperGetConformeVendas":"N/A",
+      "PagSeguro":"3.79%",
+      "Stelo":"N/A"
+   },
+   {
+      "Modalidade":"Credito Parcelado 2 dias",
+      "MercadoPago":"N/A",
+      "SuperGetD2":"5.99%",
+      "SuperGetConformeVendas":"N/A",
+      "PagSeguro":"N/A",
+      "Stelo":"5.59%"
+   },
+   {
+      "Modalidade":"Credito Parcelado 14 dias",
+      "MercadoPago":"4.36%",
+      "SuperGetD2":"N/A",
+      "SuperGetConformeVendas":"N/A",
+      "PagSeguro":"4.59%"
+   },
+   {
+      "Modalidade":"Credito Parcelado 30 dias",
+      "MercadoPago":"3.60%",
+      "SuperGetD2":"N/A",
+      "SuperGetConformeVendas":"N/A",
+      "PagSeguro":"3.79%",
+      "Stelo":"3.79%"
+   },
+   {
+      "Modalidade":"Credito parcelado conforme parcelas",
+      "MercadoPago":"Não",
+      "SuperGetD2":"Não",
+      "SuperGetConformeVendas":"Sim",
+      "PagSeguro":"Sim",
+      "Stelo":"Não"
+   },
+   {
+      "Modalidade":"Taxa por parcela",
+      "MercadoPago":"Tabelado",
+      "SuperGetD2":"2.99%",
+      "SuperGetConformeVendas":"6.40%",
+      "PagSeguro":"Tabelado",
+      "Stelo":"2.99%"
+   }
+]
